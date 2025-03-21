@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitakasilanyard.github.io/lanyard/sitemap.xml
